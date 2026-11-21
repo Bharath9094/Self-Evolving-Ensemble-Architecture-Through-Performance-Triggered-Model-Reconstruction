@@ -1,0 +1,13 @@
+<style>
+.stApp { background: #0b1220; color: #e5eefb; }
+[data-testid="stSidebar"] { background: #101a2b; border-right: 1px solid #24344c; }
+[data-testid="stMetric"] {
+    background: #121e30; border: 1px solid #20344d; padding: 18px;
+    border-radius: 12px;
+}
+.block-container { padding-top: 2rem; }
+h1, h2, h3 { color: #e8f3ff; }
+div[data-testid="stVerticalBlockBorderWrapper"] {
+    border-color: #20344d; border-radius: 12px;
+}
+</style>
